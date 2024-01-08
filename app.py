@@ -8,5 +8,5 @@ with col1:
   st.write("cars are most beatiful")
 with col2:
   st.subheader("bmw cars")
-  st.image("./wallpaperflare.com-wallpaper.jpg",caption="bmw cars",width=300,use_column_width=True)
+  st.image("./wallpaperflare.com_wallpaper.jpg",caption="bmw cars",width=300,use_column_width=True)
   st.write("these cars are more fast")
